@@ -1,4 +1,4 @@
-﻿namespace Program9
+﻿namespace longest_word_finder
 {
     internal class Program
     {
